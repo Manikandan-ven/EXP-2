@@ -61,11 +61,7 @@ Model graph:
 
 <img width="398" height="127" alt="image" src="https://github.com/user-attachments/assets/9b2fa158-367d-44a0-9e20-e9096e4a2519" />
 
-Calculation:
-![WhatsApp Image 2025-09-23 at 13 55 44_92c2e1ee](https://github.com/user-attachments/assets/4410dabf-fa21-48ef-90bf-54c01f0df1eb)
-
-
-
+Calculation:![WhatsApp Image 2025-09-23 at 13 55 44_92c2e1ee](https://github.com/user-attachments/assets/4410dabf-fa21-48ef-90bf-54c01f0df1eb)
 
 ![WhatsApp Image 2025-09-23 at 13 58 49_13633bd7](https://github.com/user-attachments/assets/723b507a-658e-4ad2-95ab-c17da55e96f9)
 
